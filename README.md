@@ -1,3 +1,7 @@
+# Update
+This is now fixed. Thanks to [Jason](https://www.twitter.com/JasonEtco/status/1402715370306289671) and all others who have helped.
+Hence I am going to retire this Repo. The current font is not perfect but meets the requirements.
+
 # Background
 Github generates social media preview for repositories. This is useful when you post the link to a repository on Twitter or other social media platforms.
 Username, repository name and description will be included in this preview. 
